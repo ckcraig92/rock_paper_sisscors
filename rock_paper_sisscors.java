@@ -31,7 +31,7 @@ Public class Main
                                 {
                                     System.out.println("You lose!");
 // another way /wout enum
-int comChoice = randon.nextInt ( :3)
+int comChoice = random.nextInt ( :3)
 String cChoice="";
 switch (comChoice)
 {
