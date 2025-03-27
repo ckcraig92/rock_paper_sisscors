@@ -30,7 +30,23 @@ Public class Main
                                 else
                                 {
                                     System.out.println("You lose!");
+// another way /wout enum
+int comChoice = randon.nextInt ( :3)
+String cChoice="";
+switch (comChoice)
+{
+    case 0:
+    cChoice="ROCK";
+    break;
+    case 1:
+    cChoice="PAPER";
+    break;
+    case 2:
+    cChoice="SCISSORS";
+    break;
+}
 
+}
 
                                 }
                                 int comchoice = random.nextInt(bound...3); // rock:0, paper:1, scissors:2
